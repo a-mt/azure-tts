@@ -1,0 +1,17 @@
+{
+  "name": "azure-tts",
+  "version": "1.0.0",
+  "description": "TTS using Microsft Azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a-mt",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
